@@ -1,0 +1,18 @@
+.pinkBadge {
+    background-color: rgba(255, 99, 132, 0.5) !important;
+    color: black;
+}
+
+.blueBadge {
+    background-color: rgba(53, 162, 235, 0.5) !important;
+    color: black;
+}
+
+.greenBadge {
+    background-color: rgba(150, 255, 99, 0.5) !important;
+    color: black;
+}
+
+#chart-wrapper {
+    width: 90%;
+}
