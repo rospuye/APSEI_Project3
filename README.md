@@ -7,7 +7,7 @@ The second one is called Sentiment Analysis and, again, given a keyword and a pr
 
 Further details about the intricacies involved in the development of this tool and the conclusions taken from it are given in the project report.
 
-# Usage Manual
+# User Manual
 This is a small usage manual for the tool I developed. This tool is available through the Web browser, altough it is not deployed. The reason for this will become clear soon. This manual is destined for whoever desires to run the tool locally and experiment with it.
 
 Otherwise, you might simply want to take a look at the video demo: [link here]
