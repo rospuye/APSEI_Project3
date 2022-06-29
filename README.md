@@ -10,7 +10,7 @@ Further details about the intricacies involved in the development of this tool a
 # User Manual
 This is a small usage manual for the tool I developed. This tool is available through the Web browser, altough it is not deployed. The reason for this will become clear soon. This manual is destined for whoever desires to run the tool locally and experiment with it.
 
-Otherwise, you might simply want to take a look at the video demo: [link here]
+Otherwise, you might simply want to take a look at the [video demo](https://youtu.be/jRSxbjyogn8).
 
 ## Step 1: Get access to the Twitter API
 
