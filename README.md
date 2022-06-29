@@ -14,7 +14,7 @@ Otherwise, you might simply want to take a look at the video demo: [link here]
 
 ## Step 1: Get access to the Twitter API
 
-The tool I developed makes use of three different APIs, one of which is the official Twitter API. The usage of this API is restricted to 500.000 monthly requests for members with a Developer account, and the requests must bear the user's security token for the sake of authentication. This is the reason I decided not to deploy this Web tool - if I did, users would either have to use my personal authentication token in order for requests to work, and could quickly exaust it, or they would have to request their own, in which case the deployment's easy access aspect would be damaged anyway.
+The tool I developed makes use of three different APIs, one of which is the official Twitter API. The usage of this API is restricted to 500.000 monthly requests for members with a Developer account, and the requests must bear the user's security token for the sake of authentication. This is the reason I decided not to deploy this Web tool - if I did, users would either have to use my personal authentication token in order for requests to work, and could quickly exhaust it, or they would have to request their own, in which case the deployment's easy access aspect would be damaged anyway.
 
 As such, the first step if you want to use this tool is to have a Twitter account and, after that, go through the process of registering yourself in Twitter's Developer Portal. This allows you access to the Twitter API. A more detailed walk-through of this process is available [here](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api).
 
